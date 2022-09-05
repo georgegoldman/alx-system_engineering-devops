@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -ls ./ ~/alx-system_engineering-devops /boot)"
+echo "$(ls -ls ./ /alx-system_engineering-devops /boot)"
