@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld ./permission | awk '{print $3}' | chmod 764 ./hello
+chmod 700 ./hello
