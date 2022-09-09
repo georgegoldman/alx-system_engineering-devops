@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 < iacta >> iacta
+chmod 753 hello
